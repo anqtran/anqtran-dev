@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anqtran-dev/static/css/main.2cce8147.chunk.css",
+    "main.js": "/anqtran-dev/static/js/main.3dc761b6.chunk.js",
+    "main.js.map": "/anqtran-dev/static/js/main.3dc761b6.chunk.js.map",
+    "runtime~main.js": "/anqtran-dev/static/js/runtime~main.d3f9f083.js",
+    "runtime~main.js.map": "/anqtran-dev/static/js/runtime~main.d3f9f083.js.map",
+    "static/js/2.6e7f296a.chunk.js": "/anqtran-dev/static/js/2.6e7f296a.chunk.js",
+    "static/js/2.6e7f296a.chunk.js.map": "/anqtran-dev/static/js/2.6e7f296a.chunk.js.map",
+    "index.html": "/anqtran-dev/index.html",
+    "precache-manifest.fbfbaf0f61b98b49224a7bc2c023c54e.js": "/anqtran-dev/precache-manifest.fbfbaf0f61b98b49224a7bc2c023c54e.js",
+    "service-worker.js": "/anqtran-dev/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/anqtran-dev/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/anqtran-dev/static/media/logo.5d5d9eef.svg"
+  }
+}
